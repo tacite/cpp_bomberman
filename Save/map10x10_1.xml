@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<map sizeX="10" sizeY="10">
+  <player idPlayer="42" posX="0" posY="0" type="0" name="" nbBomb="" poBomb="" speed="10" score="" />
+  <player idPlayer="24" posX="10" posY="10" type="0" name="" nbBomb="" poBomb="" speed="10" score="" />
+
+</map>

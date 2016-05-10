@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<map sizeX="20" sizeY="20">
+
+  <player idPlayer="42" posX="0" posY="0" type="0" name="toto" nbBomb="1" poBomb="2" speed="10" score="0" />
+  <player idPlayer="4" posX="20" posY="20" type="0" name="toto" nbBomb="1" poBomb="2" speed="10" score="0" />
+
+  <player idPlayer="100" posX="0" posY="20" type="1" name="ia" nbBomb="1" poBomb="2" speed="10" score="0" />
+
+  <block posX="1" posY="19" type="0" />
+  <block posX="1" posY="18" type="0" />
+  <block posX="2" posY="19" type="0" />
+  <block posX="4" posY="19" type="0" />
+  <block posX="5" posY="19" type="0" />
+  <block posX="5" posY="18" type="0" />
+  <block posX="3" posY="17" type="0" />
+  <block posX="1" posY="16" type="0" />
+  <block posX="1" posY="15" type="0" />
+  <block posX="2" posY="15" type="0" />
+  <block posX="4" posY="15" type="0" />
+  <block posX="5" posY="15" type="0" />
+  <block posX="5" posY="16" type="0" />
+  <block posX="2" posY="17" type="1" />
+  <block posX="3" posY="15" type="1" />
+  <block posX="3" posY="16" type="1" />
+  <block posX="1" posY="17" type="1" />
+  <block posX="4" posY="17" type="1" />
+  <block posX="5" posY="17" type="1" />
+  <block posX="3" posY="18" type="1" />
+  <block posX="3" posY="19" type="1" />
+
+  <block posX="15" posY="19" type="0" />
+  <block posX="15" posY="18" type="0" />
+  <block posX="16" posY="19" type="0" />
+  <block posX="18" posY="19" type="0" />
+  <block posX="19" posY="18" type="0" />
+  <block posX="17" posY="17" type="0" />
+  <block posX="19" posY="19" type="0" />
+  <block posX="15" posY="16" type="0" />
+  <block posX="15" posY="15" type="0" />
+  <block posX="16" posY="15" type="0" />
+  <block posX="19" posY="15" type="0" />
+  <block posX="19" posY="16" type="0" />
+  <block posX="18" posY="15" type="0" />
+  <block posX="17" posY="18" type="1" />
+  <block posX="17" posY="19" type="1" />
+  <block posX="17" posY="16" type="1" />
+  <block posX="17" posY="15" type="1" />
+  <block posX="15" posY="17" type="1" />
+  <block posX="16" posY="17" type="1" />
+  <block posX="18" posY="17" type="1" />
+  <block posX="19" posY="17" type="1" />
+
+  <block posX="15" posY="1" type="0" />
+  <block posX="15" posY="2" type="0" />
+  <block posX="16" posY="1" type="0" />
+  <block posX="19" posY="1" type="0" />
+  <block posX="19" posY="2" type="0" />
+  <block posX="18" posY="1" type="0" />
+  <block posX="17" posY="3" type="0" />
+  <block posX="15" posY="4" type="0" />
+  <block posX="15" posY="5" type="0" />
+  <block posX="16" posY="5" type="0" />
+  <block posX="19" posY="5" type="0" />
+  <block posX="19" posY="4" type="0" />
+  <block posX="18" posY="5" type="0" />
+  <block posX="17" posY="2" type="1" />
+  <block posX="15" posY="3" type="1" />
+  <block posX="16" posY="3" type="1" />
+  <block posX="17" posY="1" type="1" />
+  <block posX="17" posY="4" type="1" />
+  <block posX="17" posY="5" type="1" />
+  <block posX="18" posY="3" type="1" />
+  <block posX="19" posY="3" type="1" />
+
+  <block posX="1" posY="1" type="0" />
+  <block posX="1" posY="2" type="0" />
+  <block posX="2" posY="1" type="0" />
+  <block posX="4" posY="1" type="0" />
+  <block posX="5" posY="1" type="0" />
+  <block posX="5" posY="2" type="0" />
+  <block posX="3" posY="3" type="0" />
+  <block posX="1" posY="4" type="0" />
+  <block posX="1" posY="5" type="0" />
+  <block posX="2" posY="5" type="0" />
+  <block posX="4" posY="5" type="0" />
+  <block posX="5" posY="5" type="0" />
+  <block posX="5" posY="4" type="0" />
+  <block posX="3" posY="2" type="1" />
+  <block posX="3" posY="1" type="1" />
+  <block posX="3" posY="4" type="1" />
+  <block posX="3" posY="5" type="1" />
+  <block posX="5" posY="3" type="1" />
+  <block posX="4" posY="3" type="1" />
+  <block posX="2" posY="3" type="1" />
+  <block posX="1" posY="3" type="1" />
+
+  <block posX="8" posY="8" type="0" />
+  <block posX="8" posY="9" type="1" />
+  <block posX="8" posY="11" type="1" />
+  <block posX="8" posY="12" type="0" />
+  <block posX="9" posY="8" type="1" />
+  <block posX="9" posY="10" type="0" />
+  <block posX="9" posY="12" type="1" />
+  <block posX="10" posY="9" type="0" />
+  <block posX="10" posY="10" type="0" />
+  <block posX="10" posY="11" type="0" />
+  <block posX="11" posY="8" type="1" />
+  <block posX="11" posY="10" type="0" />
+  <block posX="11" posY="12" type="1" />
+  <block posX="12" posY="8" type="0" />
+  <block posX="12" posY="9" type="1" />
+  <block posX="12" posY="11" type="1" />
+  <block posX="12" posY="12" type="0" />
+
+  <block posX="2" posY="10" type="1" />
+  <block posX="3" posY="8" type="0" />
+  <block posX="3" posY="9" type="1" />
+  <block posX="3" posY="10" type="0" />
+  <block posX="3" posY="11" type="1" />
+  <block posX="3" posY="12" type="0" />
+  <block posX="4" posY="10" type="1" />
+
+  <block posX="18" posY="10" type="1" />
+  <block posX="17" posY="8" type="0" />
+  <block posX="17" posY="9" type="1" />
+  <block posX="17" posY="10" type="0" />
+  <block posX="17" posY="11" type="1" />
+  <block posX="17" posY="12" type="0" />
+  <block posX="16" posY="10" type="1" />
+
+  <block posX="9" posY="2" type="0" />
+  <block posX="9" posY="4" type="0" />
+  <block posX="10" posY="3" type="1" />
+  <block posX="11" posY="2" type="0" />
+  <block posX="11" posY="4" type="0" />
+
+  <block posX="9" posY="18" type="0" />
+  <block posX="9" posY="16" type="0" />
+  <block posX="10" posY="17" type="1" />
+  <block posX="11" posY="18" type="0" />
+  <block posX="11" posY="16" type="0" />
+</map>
